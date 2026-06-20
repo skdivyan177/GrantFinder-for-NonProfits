@@ -1,0 +1,138 @@
+[
+  {
+    "name": "USDA Community Facilities Direct Loan & Grant Program",
+    "funder": "USDA Rural Development",
+    "amount_range": "$1K – $25M",
+    "eligibility": "Public bodies, nonprofits, and federally recognized tribes in rural areas (populations under 20,000). Funds essential community facilities including food banks, health clinics, and community centers.",
+    "deadline": "Rolling",
+    "source_link": "https://www.rd.usda.gov/programs-services/community-facilities/community-facilities-direct-loan-grant-program"
+  },
+  {
+    "name": "HUD Community Development Block Grant (CDBG)",
+    "funder": "U.S. Department of Housing and Urban Development",
+    "amount_range": "Varies by jurisdiction",
+    "eligibility": "Activities must principally benefit low- and moderate-income persons, prevent or eliminate slums or blight, or address urgent community development needs. Administered through state and local governments.",
+    "deadline": "Contact your local CDBG administrator",
+    "source_link": "https://www.hud.gov/program_offices/comm_planning/cdbg"
+  },
+  {
+    "name": "AmeriCorps Volunteer Generation Fund",
+    "funder": "AmeriCorps",
+    "amount_range": "$50K – $500K",
+    "eligibility": "Organizations that recruit, manage, and support volunteers. Must demonstrate capacity to expand volunteer engagement. Priority to organizations serving under-resourced communities.",
+    "deadline": "Annual — check AmeriCorps NOFO calendar",
+    "source_link": "https://americorps.gov/partner/grants/volunteer-generation-fund"
+  },
+  {
+    "name": "Robert Wood Johnson Foundation Health Equity Grants",
+    "funder": "Robert Wood Johnson Foundation",
+    "amount_range": "$100K – $1M",
+    "eligibility": "Nonprofits working to advance health equity, address social determinants of health, and build healthier communities. Particular interest in organizations serving communities of color and low-income populations.",
+    "deadline": "Rolling — letter of inquiry first",
+    "source_link": "https://www.rwjf.org/en/grants.html"
+  },
+  {
+    "name": "W.K. Kellogg Foundation Community and Civic Engagement",
+    "funder": "W.K. Kellogg Foundation",
+    "amount_range": "$100K – $500K",
+    "eligibility": "Nonprofits focused on thriving children, working families, and equitable communities. Priority to Michigan, Mississippi, New Mexico, and New Orleans. Work must be community-led and advance racial equity.",
+    "deadline": "Rolling",
+    "source_link": "https://www.wkkf.org/grants"
+  },
+  {
+    "name": "EPA Environmental Justice Collaborative Problem-Solving Cooperative Agreement",
+    "funder": "U.S. Environmental Protection Agency",
+    "amount_range": "$100K – $300K",
+    "eligibility": "Nonprofit organizations in communities facing disproportionate environmental and public health burdens. Must demonstrate collaborative partnerships with government and industry stakeholders.",
+    "deadline": "Annual — check Grants.gov",
+    "source_link": "https://www.epa.gov/environmentaljustice/environmental-justice-collaborative-problem-solving-cooperative-agreement-0"
+  },
+  {
+    "name": "SAMHSA Community Mental Health Services Block Grant",
+    "funder": "Substance Abuse and Mental Health Services Administration",
+    "amount_range": "State-administered",
+    "eligibility": "Community mental health centers and nonprofits providing mental health services. Distributed through state mental health authorities. Serves adults with serious mental illness and children with serious emotional disturbances.",
+    "deadline": "Contact your state mental health authority",
+    "source_link": "https://www.samhsa.gov/grants/block-grants/mhbg"
+  },
+  {
+    "name": "Walmart Foundation Community Grant Program",
+    "funder": "Walmart Foundation",
+    "amount_range": "$250 – $5,000",
+    "eligibility": "501(c)(3) nonprofits in communities where Walmart or Sam's Club operates. Focus areas: hunger relief, sustainability, workforce development, and veterans/military families. Applied through local store managers.",
+    "deadline": "Rolling",
+    "source_link": "https://walmart.org/how-we-give/local-community-grants"
+  },
+  {
+    "name": "Annie E. Casey Foundation Child & Family Grants",
+    "funder": "Annie E. Casey Foundation",
+    "amount_range": "$50K – $1M",
+    "eligibility": "Primarily organizations in Casey's focus jurisdictions. Funds work to improve outcomes for vulnerable children, youth, and families — especially those involved in child welfare or juvenile justice systems.",
+    "deadline": "Invitation-only for most programs; check website for open competitions",
+    "source_link": "https://www.aecf.org/work/grants"
+  },
+  {
+    "name": "HRSA Rural Health Care Services Outreach Grant",
+    "funder": "Health Resources & Services Administration",
+    "amount_range": "$300K – $400K/year (3-year awards)",
+    "eligibility": "Nonprofits providing or coordinating health care services in rural areas. Funds partnerships to expand access to care for underserved rural populations. Organization must be located in a rural area.",
+    "deadline": "Annual — check HRSA.gov",
+    "source_link": "https://www.hrsa.gov/grants/find-funding"
+  },
+  {
+    "name": "Kresge Foundation Human Services Program",
+    "funder": "Kresge Foundation",
+    "amount_range": "$150K – $750K",
+    "eligibility": "Nonprofits working on economic security, workforce development, and basic needs for low-income Americans. Focus on systems change and policy advocacy alongside direct services. Strong preference for Detroit-area organizations.",
+    "deadline": "Rolling — concept paper required",
+    "source_link": "https://kresge.org/our-work/human-services/"
+  },
+  {
+    "name": "DOL Workforce Innovation and Opportunity Act (WIOA) Grants",
+    "funder": "U.S. Department of Labor",
+    "amount_range": "Varies widely",
+    "eligibility": "Nonprofits and educational institutions providing workforce development services. Must serve adults, dislocated workers, or youth. Administered through state and local workforce development boards.",
+    "deadline": "Contact your local workforce development board",
+    "source_link": "https://www.dol.gov/agencies/eta/wioa"
+  },
+  {
+    "name": "Blue Shield of California Foundation Grants",
+    "funder": "Blue Shield of California Foundation",
+    "amount_range": "$75K – $500K",
+    "eligibility": "California nonprofits working on domestic violence prevention and response, or expanding access to health care for underserved Californians. Preference for community-based organizations led by people with lived experience.",
+    "deadline": "Annual — check website",
+    "source_link": "https://blueshieldcafoundation.org/grants"
+  },
+  {
+    "name": "Surdna Foundation Thriving Cultures Grant",
+    "funder": "Surdna Foundation",
+    "amount_range": "$100K – $500K",
+    "eligibility": "Nonprofits supporting arts and culture as tools for community development and social change. Must demonstrate genuine community rootedness. Preference for artists and cultural workers from communities most marginalized.",
+    "deadline": "Rolling — letter of inquiry",
+    "source_link": "https://surdna.org/grants/"
+  },
+  {
+    "name": "FEMA Hazard Mitigation Grant Program (HMGP)",
+    "funder": "Federal Emergency Management Agency",
+    "amount_range": "Varies — often $100K–$5M",
+    "eligibility": "State, local, tribal, and territorial governments, and certain nonprofits. Funds long-term hazard mitigation planning and projects following a federal disaster declaration. Nonprofits typically sub-grant through state emergency management agencies.",
+    "deadline": "Following federal disaster declarations",
+    "source_link": "https://www.fema.gov/grants/mitigation/hazard-mitigation"
+  },
+  {
+    "name": "JPMorgan Chase Foundation Advancing Cities",
+    "funder": "JPMorgan Chase & Co.",
+    "amount_range": "$100K – $1M",
+    "eligibility": "Nonprofits in cities where JPMorgan Chase has significant operations. Focus on workforce development, small business growth, financial health for low-income individuals, and neighborhood revitalization.",
+    "deadline": "Rolling — invitation preferred, unsolicited reviewed quarterly",
+    "source_link": "https://www.jpmorganchase.com/impact/philanthropy"
+  },
+  {
+    "name": "USDA Farmers Market and Local Food Promotion Program",
+    "funder": "USDA Agricultural Marketing Service",
+    "amount_range": "$25K – $500K",
+    "eligibility": "Nonprofits, local governments, agricultural cooperatives, and Tribal governments. Funds development and promotion of local and regional food systems, farmers markets, food hubs, and community-supported agriculture.",
+    "deadline": "Annual — check Grants.gov",
+    "source_link": "https://www.ams.usda.gov/services/grants/fmlfpp"
+  }
+]
